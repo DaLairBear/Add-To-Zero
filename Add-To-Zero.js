@@ -1,3 +1,5 @@
+//Given an array of numbers, console.log True if any two numbers in the array add to zero, otherwise log False.
+
 let array1 = [1, 4, 11, 2, 37, -4]
 let array2 = [0, 21, 33, 6, 0, -9]
 let array3 = [ 0, 1, 2, 3, 4, 5]
